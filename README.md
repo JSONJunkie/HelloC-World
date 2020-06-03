@@ -1,0 +1,3 @@
+# HelloC-World
+
+dotnet run
